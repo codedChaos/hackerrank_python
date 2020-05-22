@@ -1,0 +1,30 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pydocstyleEnabled": false,
+    "python.linting.pylintEnabled": false,
+    "eslint.enable": false,
+    "python.linting.flake8Enabled": false,
+    "python.linting.banditEnabled": true,
+    "markdown.links.openLocation": "beside",
+    "jx.path": "C:\\Program Files (x86)\\Jenkins\\jenkins.exe",
+    "gitProjectManager.displayProjectPath": true,
+    "gitProjectManager.baseProjectsFolders": [
+        "C:\\Users\\wsmyth\\code\\"
+    ],
+    "gitProjectManager.codePath": "C:\\Program Files\\Microsoft VS Code\\bin\\code",
+    "gitProjectManager.maxDepthRecursion": 0,
+    "gitProjectManager.openInNewWindow": true,
+    "gitProjectManager.recentProjectsListSize": 7,
+    "gitProjectManager.storeRepositoriesBetweenSessions": true,
+    "gitProjectManager.warnIfFolderNotFound": true,
+    "git.alwaysSignOff": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.showPushSuccessNotification": true,
+    "git.supportCancellation": true,
+    "git.enableCommitSigning": true,
+    "projectManager.git.baseFolders": [
+        "C:\\Users\\wsmyth\\code\\",
+    ],
+    "projectManager.git.maxDepthRecursion": 0,
+    "projectManager.groupList": true
+}
